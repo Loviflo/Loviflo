@@ -16,3 +16,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_UPDATED_DATE: "TRUE"
           SHOW_LINES_OF_CODE: "TRUE"
+          LOCALE: "fr"
