@@ -7,6 +7,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Loviflo?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=Loviflo.Loviflo)
+[![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
