@@ -10,15 +10,13 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2051%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-27-blue)
+![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-67-blue)
 
 ![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-1%20Million%20Lignes%20de%20code-blue)
 
 **🐱 Mes données GitHub** 
 
-> 🏆 124 Contributions en 2022
+> 🏆 115 Contributions en 2022
  > 
 > 📦 227.9 kB Utilisés sur le stockage de GitHub 
  > 
@@ -57,16 +55,24 @@ Dimanche     24 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Aucune activité enregistrée cette semaine
+Other                    1 hr 15 mins        ████████████████████████░   99.25% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18% 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 🔥 Éditeurs de code: 
-Aucune activité enregistrée cette semaine
+Browser                  1 hr 15 mins        ████████████████████████░   99.03% 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.97%
 
 🐱‍💻 Projets: 
-Aucune activité enregistrée cette semaine
+QuickBaluchon            1 hr 15 mins        ████████████████████████░   99.03% 
+PA-CMS-Restaurant        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4% 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38% 
+Loviflo                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
 
 💻 Système d'exploitation: 
-Aucune activité enregistrée cette semaine
+Windows                  1 hr 16 mins        █████████████████████████   100.0%
 
 ```
 
@@ -87,5 +93,5 @@ Hack                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Loviflo/Loviflo/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/04/2022 17:42:53 UTC
+ Last Updated on 23/04/2022 18:47:52 UTC
 <!--END_SECTION:waka-->
