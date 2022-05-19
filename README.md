@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Loviflo&show_icons=true&theme=graywhite" alt="Github Stats" />
 </p>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/loviflo/loviflo/blob/master/devcard.svg" width="400" alt="Loviflo's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/loviflo/loviflo/blob/main/devcard.svg" width="400" alt="Loviflo's Dev Card"/></a>
 
 ![GitHub followers](https://img.shields.io/github/followers/Loviflo?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=Loviflo.Loviflo)
