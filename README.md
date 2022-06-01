@@ -7,6 +7,10 @@
 
 <a href="https://app.daily.dev/loviflo"><img src="https://github.com/loviflo/loviflo/blob/main/devcard.svg" width="400" alt="Loviflo's Dev Card"/></a>
 
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,mysql,js,ts,html,css,sass,angular,docker,webpack,vscode,figma,git,github,gitlab)](https://skillicons.dev)
+
+
 ![GitHub followers](https://img.shields.io/github/followers/Loviflo?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=Loviflo.Loviflo)
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
