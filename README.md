@@ -16,7 +16,7 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-515%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -103,5 +103,5 @@ Hack                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Loviflo/Loviflo/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/08/2022 18:50:56 UTC
+ Last Updated on 18/08/2022 18:49:11 UTC
 <!--END_SECTION:waka-->
