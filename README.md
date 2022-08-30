@@ -16,7 +16,7 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-546%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-549%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -63,16 +63,21 @@ Dimanche     12 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    1 hr 38 mins        █████████████████████████   100.0%
+Other                    3 hrs 11 mins       ██████████████████░░░░░░░   74.97% 
+PHP                      54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.24% 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36% 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42%
 
 🔥 Éditeurs de code: 
-Browser                  1 hr 38 mins        █████████████████████████   100.0%
+Browser                  3 hrs 11 mins       ██████████████████░░░░░░░   74.97% 
+VS Code                  1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   25.03%
 
 🐱‍💻 Projets: 
-espacedependancenew      1 hr 38 mins        █████████████████████████   100.0%
+espacedependancenew      4 hrs 15 mins       █████████████████████████   99.84% 
+espaceDependanceClean    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
 
 💻 Système d'exploitation: 
-Windows                  1 hr 38 mins        █████████████████████████   100.0%
+Windows                  4 hrs 15 mins       █████████████████████████   100.0%
 
 ```
 
@@ -93,5 +98,5 @@ Hack                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Loviflo/Loviflo/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/08/2022 18:51:28 UTC
+ Last Updated on 30/08/2022 18:49:06 UTC
 <!--END_SECTION:waka-->
