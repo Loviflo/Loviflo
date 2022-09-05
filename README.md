@@ -16,7 +16,7 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -26,7 +26,7 @@
 
 > 🏆 398 Contributions en 2022
  > 
-> 📦 232.7 kB Utilisés sur le stockage de GitHub 
+> 📦 232.9 kB Utilisés sur le stockage de GitHub 
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -34,6 +34,54 @@
  > 
 > 🔑 9 dépots privés  
  > 
+**Je suis un 🦉 de nuit** 
+
+```text
+🌞 Matin      14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+🌆 Journée    59 commits     ███████░░░░░░░░░░░░░░░░░░   29.06% 
+🌃 Soirée     82 commits     ██████████░░░░░░░░░░░░░░░   40.39% 
+🌙 Nuit       48 commits     ██████░░░░░░░░░░░░░░░░░░░   23.65%
+
+```
+📅 **Je suis le plus productif le Jeudi** 
+
+```text
+Lundi        13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.4% 
+Mardi        23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.33% 
+Mercredi     46 commits     █████░░░░░░░░░░░░░░░░░░░░   22.66% 
+Jeudi        58 commits     ███████░░░░░░░░░░░░░░░░░░   28.57% 
+Vendredi     37 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.23% 
+Samedi       14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
+Dimanche     12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.91%
+
+```
+
+
+📊 **Cette semaine, je passe mon temps sur** 
+
+```text
+⌚︎ Fuseau horaire: Europe/Paris
+
+💬 Langages: 
+Other                    39 hrs 31 mins      ███████████████████████░░   93.29% 
+PHP                      2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.13% 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25% 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19% 
+Twig                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
+
+🔥 Éditeurs de code: 
+Browser                  39 hrs 31 mins      ███████████████████████░░   93.29% 
+VS Code                  2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.71%
+
+🐱‍💻 Projets: 
+espacedependancenew      42 hrs 20 mins      █████████████████████████   99.95% 
+espaceDependanceClean    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+
+💻 Système d'exploitation: 
+Windows                  42 hrs 21 mins      █████████████████████████   100.0%
+
+```
+
 **Je code principalement en PHP** 
 
 ```text
@@ -51,5 +99,5 @@ Hack                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Loviflo/Loviflo/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 18:48:15 UTC
+ Last Updated on 05/09/2022 18:52:30 UTC
 <!--END_SECTION:waka-->
