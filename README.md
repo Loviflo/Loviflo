@@ -16,7 +16,7 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-633%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-633%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -26,7 +26,7 @@
 
 > 🏆 401 Contributions en 2022
  > 
-> 📦 232.6 kB Utilisés sur le stockage de GitHub 
+> 📦 232.7 kB Utilisés sur le stockage de GitHub 
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -103,5 +103,5 @@ Hack                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Loviflo/Loviflo/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/10/2022 18:56:09 UTC
+ Last Updated on 16/10/2022 18:55:24 UTC
 <!--END_SECTION:waka-->
