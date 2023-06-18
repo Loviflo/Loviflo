@@ -24,7 +24,7 @@
 
 **🐱 Mes données GitHub** 
 
-> 📦 250.9 kB Utilisés sur le stockage de GitHub 
+> 📦 246.7 kB Utilisés sur le stockage de GitHub 
  > 
 > 🏆 76 Contributions en 2023
  > 
@@ -100,5 +100,5 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2023 18:35:49 UTC
+ Last Updated on 18/06/2023 18:36:07 UTC
 <!--END_SECTION:waka-->
