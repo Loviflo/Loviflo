@@ -24,7 +24,7 @@
 
 **🐱 Mes données GitHub** 
 
-> 📦 248.2 kB Utilisés sur le stockage de GitHub 
+> 📦 248.4 kB Utilisés sur le stockage de GitHub 
  > 
 > 🏆 161 Contributions en 2023
  > 
@@ -61,16 +61,16 @@ Dimanche                 167 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    1 hr 39 mins        █████████████████████████   100.00 % 
+Other                    19 mins             █████████████████████████   100.00 % 
 
 🔥 Éditeurs de code: 
-Chrome                   1 hr 39 mins        █████████████████████████   100.00 % 
+Chrome                   19 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-QuizzBattle              1 hr 39 mins        █████████████████████████   100.00 % 
+QuizzBattle              19 mins             █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Windows                  1 hr 39 mins        █████████████████████████   100.00 % 
+Windows                  19 mins             █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en PHP** 
@@ -90,5 +90,5 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2023 18:36:39 UTC
+ Last Updated on 14/08/2023 18:36:20 UTC
 <!--END_SECTION:waka-->
