@@ -16,7 +16,7 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C443%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C444%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -24,7 +24,7 @@
 
 **🐱 Mes données GitHub** 
 
-> 📦 248.6 kB Utilisés sur le stockage de GitHub 
+> 📦 248.8 kB Utilisés sur le stockage de GitHub 
  > 
 > 🏆 161 Contributions en 2023
  > 
@@ -61,16 +61,16 @@ Dimanche                 167 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    43 mins             █████████████████████████   100.00 % 
+Other                    1 hr 41 mins        █████████████████████████   100.00 % 
 
 🔥 Éditeurs de code: 
-Chrome                   43 mins             █████████████████████████   100.00 % 
+Chrome                   1 hr 41 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-QuizzBattle              43 mins             █████████████████████████   100.00 % 
+QuizzBattle              1 hr 41 mins        █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Windows                  43 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en PHP** 
@@ -90,5 +90,5 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2023 18:36:11 UTC
+ Last Updated on 18/08/2023 18:36:45 UTC
 <!--END_SECTION:waka-->
