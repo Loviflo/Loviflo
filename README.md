@@ -16,7 +16,7 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C668%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C662%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-15-blue)
 
@@ -100,5 +100,5 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 30/11/2023 18:37:51 UTC
+ Last Updated on 01/12/2023 18:38:13 UTC
 <!--END_SECTION:waka-->
