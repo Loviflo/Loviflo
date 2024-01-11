@@ -3,13 +3,10 @@
 <p align="center">
   <img src="https://github.com/Loviflo/Loviflo/blob/main/img/portrait.jpg" alt="Loviflo" height="200" style="margin-right: 20px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Loviflo&show_icons=true&theme=graywhite" alt="Github Stats" />
+  <a href="https://app.daily.dev/loviflo"><img src="https://github.com/loviflo/loviflo/blob/main/devcard.svg" width="400" alt="Loviflo's Dev Card"/></a>
 </p>
 
-<a href="https://app.daily.dev/loviflo"><img src="https://github.com/loviflo/loviflo/blob/main/devcard.svg" width="400" alt="Loviflo's Dev Card"/></a>
-
-
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,mysql,js,ts,html,css,sass,angular,docker,webpack,vscode,figma,git,github,gitlab)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,symfony,dotnet,cs,nodejs,mysql,postgres,js,ts,html,css,sass,angular,react,electron,docker,webpack,vscode,figma,git,github,gitlab,nginx,postman&perline=5)](https://skillicons.dev)
 
 ![GitHub followers](https://img.shields.io/github/followers/Loviflo?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=Loviflo.Loviflo)
