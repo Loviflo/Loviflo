@@ -58,22 +58,16 @@ Dimanche                 166 commits         ██░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-PHP                      1 hr 11 mins        ███████████░░░░░░░░░░░░░░   45.87 % 
-HTML                     36 mins             ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
-Other                    28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-VS Code                  2 hrs 1 min         ████████████████████░░░░░   78.10 % 
-Chrome                   28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
-DataGrip                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+Aucune activité enregistrée cette semaine
 
 🐱‍💻 Projets: 
-myks                     2 hrs 35 mins       █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Windows                  2 hrs 35 mins       █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 ```
 
 **Je code principalement en PHP** 
@@ -93,5 +87,5 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 08/03/2024 18:36:08 UTC
+ Last Updated on 09/03/2024 18:36:06 UTC
 <!--END_SECTION:waka-->
