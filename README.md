@@ -13,7 +13,7 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C323%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C326%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -56,16 +56,22 @@ Dimanche                 225 commits         ██░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    52 mins             █████████████████████████   100.00 % 
+PHP                      2 hrs 21 mins       █████████████████████░░░░   84.22 % 
+Other                    25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Éditeurs de code: 
-Chrome                   52 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 23 mins       █████████████████████░░░░   84.99 % 
+Chrome                   25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
 
 🐱‍💻 Projets: 
-myks                     52 mins             █████████████████████████   100.00 % 
+myks                     2 hrs 48 mins       █████████████████████████   99.88 % 
+ks-telecom               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Système d'exploitation: 
-Windows                  52 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en PHP** 
@@ -85,5 +91,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2024 18:41:38 UTC
+ Last Updated on 10/08/2024 18:38:57 UTC
 <!--END_SECTION:waka-->
