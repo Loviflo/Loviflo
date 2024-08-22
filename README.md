@@ -23,8 +23,6 @@
 
 > 📦 256.5 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 145 Contributions en 2024
- > 
 > 🚫 N'a pas choisi d'embaucher
  > 
 > 📜 16 dépots publiques 
@@ -58,20 +56,16 @@ Dimanche                 225 commits         ██░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-PHP                      2 hrs 15 mins       ██████████████░░░░░░░░░░░   54.79 % 
-JavaScript               1 hr 26 mins        █████████░░░░░░░░░░░░░░░░   34.86 % 
-Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-SQL                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-VS Code                  4 hrs 5 mins        █████████████████████████   99.18 % 
-DataGrip                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Aucune activité enregistrée cette semaine
 
 🐱‍💻 Projets: 
-myks                     4 hrs 7 mins        █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Windows                  4 hrs 7 mins        █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 ```
 
 **Je code principalement en PHP** 
@@ -91,5 +85,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2024 18:41:33 UTC
+ Last Updated on 22/08/2024 18:41:30 UTC
 <!--END_SECTION:waka-->
