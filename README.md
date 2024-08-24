@@ -56,16 +56,20 @@ Dimanche                 225 commits         ██░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Aucune activité enregistrée cette semaine
+JavaScript               40 mins             ██████████████░░░░░░░░░░░   55.05 % 
+SQL                      16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+PHP                      14 mins             █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🔥 Éditeurs de code: 
-Aucune activité enregistrée cette semaine
+VS Code                  55 mins             ███████████████████░░░░░░   76.75 % 
+DataGrip                 16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
 
 🐱‍💻 Projets: 
-Aucune activité enregistrée cette semaine
+myks                     1 hr 12 mins        █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Aucune activité enregistrée cette semaine
+Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en PHP** 
@@ -85,5 +89,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2024 18:41:06 UTC
+ Last Updated on 24/08/2024 18:39:27 UTC
 <!--END_SECTION:waka-->
