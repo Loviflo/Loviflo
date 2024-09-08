@@ -13,8 +13,6 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C349%20hrs%2047%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-6.7%20million%20Lignes%20de%20code-blue)
@@ -97,5 +95,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2024 18:40:49 UTC
+ Last Updated on 08/09/2024 18:41:17 UTC
 <!--END_SECTION:waka-->
