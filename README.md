@@ -13,7 +13,7 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C384%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C386%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -21,7 +21,7 @@
 
 **🐱 Mes données GitHub** 
 
-> 📦 256.5 kB Utilisés sur le stockage de GitHub 
+> 📦 257.1 kB Utilisés sur le stockage de GitHub 
  > 
 > 🏆 145 Contributions en 2024
  > 
@@ -58,21 +58,21 @@ Dimanche                 225 commits         ██░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-JavaScript               2 hrs 39 mins       ████████████████░░░░░░░░░   63.05 % 
-Other                    53 mins             █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-PHP                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-SQL                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+JavaScript               4 hrs 23 mins       ███████████████░░░░░░░░░░   58.34 % 
+PHP                      1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+Other                    53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+SQL                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 
 🔥 Éditeurs de code: 
-VS Code                  3 hrs 6 mins        ██████████████████░░░░░░░   73.81 % 
-Chrome                   51 mins             █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-DataGrip                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+VS Code                  6 hrs 18 mins       █████████████████████░░░░   83.57 % 
+Chrome                   51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+DataGrip                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 🐱‍💻 Projets: 
-myks                     4 hrs 12 mins       █████████████████████████   100.00 % 
+myks                     7 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Windows                  4 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en PHP** 
@@ -92,5 +92,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2024 18:46:16 UTC
+ Last Updated on 03/10/2024 18:45:15 UTC
 <!--END_SECTION:waka-->
