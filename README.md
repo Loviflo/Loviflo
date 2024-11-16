@@ -13,7 +13,7 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C436%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C437%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -23,7 +23,7 @@
 
 > 📦 256.5 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 0 Contributions en 2024
+> 🏆 145 Contributions en 2024
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -58,16 +58,16 @@ Dimanche                 225 commits         ██░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    6 hrs 5 mins        █████████████████████████   100.00 % 
+Other                    4 hrs 57 mins       █████████████████████████   100.00 % 
 
 🔥 Éditeurs de code: 
-Chrome                   6 hrs 5 mins        █████████████████████████   100.00 % 
+Chrome                   4 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-minecraft-server         6 hrs 5 mins        █████████████████████████   100.00 % 
+minecraft-server         4 hrs 57 mins       █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Windows                  6 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en PHP** 
@@ -87,5 +87,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2024 18:45:55 UTC
+ Last Updated on 16/11/2024 18:43:17 UTC
 <!--END_SECTION:waka-->
