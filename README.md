@@ -13,6 +13,8 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C451%20hrs%2020%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-6.7%20million%20Lignes%20de%20code-blue)
@@ -54,16 +56,16 @@ Dimanche                 225 commits         ██░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    6 hrs 56 mins       █████████████████████████   100.00 % 
+Other                    7 hrs 26 mins       █████████████████████████   100.00 % 
 
 🔥 Éditeurs de code: 
-Chrome                   6 hrs 56 mins       █████████████████████████   100.00 % 
+Chrome                   7 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-minecraft-server         6 hrs 56 mins       █████████████████████████   100.00 % 
+minecraft-server         7 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Windows                  6 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en PHP** 
@@ -83,5 +85,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2024 18:45:03 UTC
+ Last Updated on 02/12/2024 18:47:50 UTC
 <!--END_SECTION:waka-->
