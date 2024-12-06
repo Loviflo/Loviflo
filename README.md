@@ -23,8 +23,6 @@
 
 > 📦 256.5 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 145 Contributions en 2024
- > 
 > 🚫 N'a pas choisi d'embaucher
  > 
 > 📜 16 dépots publiques 
@@ -58,16 +56,16 @@ Dimanche                 225 commits         ██░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    4 hrs 53 mins       █████████████████████████   100.00 % 
+Other                    2 hrs 54 mins       █████████████████████████   100.00 % 
 
 🔥 Éditeurs de code: 
-Chrome                   4 hrs 53 mins       █████████████████████████   100.00 % 
+Chrome                   2 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-minecraft-server         4 hrs 53 mins       █████████████████████████   100.00 % 
+minecraft-server         2 hrs 54 mins       █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Windows                  4 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en PHP** 
@@ -87,5 +85,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2024 18:46:55 UTC
+ Last Updated on 06/12/2024 18:47:46 UTC
 <!--END_SECTION:waka-->
