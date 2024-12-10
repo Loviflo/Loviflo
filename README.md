@@ -13,7 +13,7 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C452%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C453%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -56,16 +56,25 @@ Dimanche                 225 commits         ██░░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    1 hr 55 mins        █████████████████████████   100.00 % 
+Other                    2 hrs 3 mins        ██████████████░░░░░░░░░░░   55.16 % 
+PHP                      59 mins             ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+SQL                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+YAML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Twig                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🔥 Éditeurs de code: 
-Chrome                   1 hr 55 mins        █████████████████████████   100.00 % 
+Chrome                   2 hrs 1 min         ██████████████░░░░░░░░░░░   54.09 % 
+VS Code                  1 hr 29 mins        ██████████░░░░░░░░░░░░░░░   40.14 % 
+DataGrip                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
 
 🐱‍💻 Projets: 
-minecraft-server         1 hr 55 mins        █████████████████████████   100.00 % 
+minecraft-server         1 hr 51 mins        ████████████░░░░░░░░░░░░░   49.54 % 
+espaceDependanceClean    1 hr 40 mins        ███████████░░░░░░░░░░░░░░   44.69 % 
+France Galop             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+espacedependance         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 💻 Système d'exploitation: 
-Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en PHP** 
@@ -85,5 +94,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 09/12/2024 18:49:12 UTC
+ Last Updated on 10/12/2024 18:49:22 UTC
 <!--END_SECTION:waka-->
