@@ -13,7 +13,7 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C577%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C580%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -22,8 +22,6 @@
 **🐱 Mes données GitHub** 
 
 > 📦 255.9 kB Utilisés sur le stockage de GitHub 
- > 
-> 🏆 1 Contributions en 2025
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -96,5 +94,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2025 18:40:13 UTC
+ Last Updated on 02/02/2025 18:42:59 UTC
 <!--END_SECTION:waka-->
