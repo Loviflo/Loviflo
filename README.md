@@ -21,9 +21,7 @@
 
 **🐱 Mes données GitHub** 
 
-> 📦 255.8 kB Utilisés sur le stockage de GitHub 
- > 
-> 🏆 4 Contributions en 2025
+> 📦 255.9 kB Utilisés sur le stockage de GitHub 
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -96,5 +94,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 08/05/2025 18:49:57 UTC
+ Last Updated on 09/05/2025 18:48:48 UTC
 <!--END_SECTION:waka-->
