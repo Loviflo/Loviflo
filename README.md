@@ -15,13 +15,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C875%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-4-blue)
+![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-6.5%20million%20Lignes%20de%20code-blue)
 
 **🐱 Mes données GitHub** 
 
 > 📦 268.9 kB Utilisés sur le stockage de GitHub 
+ > 
+> 🏆 9 Contributions en 2025
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -92,5 +94,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 21/07/2025 18:55:16 UTC
+ Last Updated on 22/07/2025 18:55:19 UTC
 <!--END_SECTION:waka-->
