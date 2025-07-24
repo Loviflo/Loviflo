@@ -13,7 +13,7 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C875%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C875%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-5-blue)
 
@@ -56,18 +56,19 @@ Dimanche                 189 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-YAML                     7 mins              ████████████████████████░   96.08 % 
-Git                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+YAML                     7 mins              ████████████████████████░   95.82 % 
+Git                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Éditeurs de code: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-lintang-mc               7 mins              ████████████████████████░   96.08 % 
-WEB-Indista-skripsi      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+lintang-mc               7 mins              ████████████████████████░   96.09 % 
+WEB-Indista-skripsi      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 💻 Système d'exploitation: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  8 mins              █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en PHP** 
@@ -87,5 +88,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2025 18:54:37 UTC
+ Last Updated on 24/07/2025 18:54:52 UTC
 <!--END_SECTION:waka-->
