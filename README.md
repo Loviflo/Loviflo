@@ -13,8 +13,6 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C875%20hrs%2055%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-6.5%20million%20Lignes%20de%20code-blue)
@@ -22,8 +20,6 @@
 **🐱 Mes données GitHub** 
 
 > 📦 268.9 kB Utilisés sur le stockage de GitHub 
- > 
-> 🏆 9 Contributions en 2025
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -58,19 +54,16 @@ Dimanche                 189 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-YAML                     7 mins              ████████████████████████░   95.82 % 
-Git                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+JSON                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Éditeurs de code: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-lintang-mc               7 mins              ████████████████████████░   96.09 % 
-WEB-Indista-skripsi      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+lintang-mc               0 secs              █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Windows                  8 mins              █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en PHP** 
@@ -90,5 +83,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2025 18:57:17 UTC
+ Last Updated on 30/07/2025 18:55:41 UTC
 <!--END_SECTION:waka-->
