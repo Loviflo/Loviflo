@@ -13,7 +13,7 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C875%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C876%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -22,6 +22,8 @@
 **🐱 Mes données GitHub** 
 
 > 📦 268.9 kB Utilisés sur le stockage de GitHub 
+ > 
+> 🏆 9 Contributions en 2025
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -56,12 +58,12 @@ Dimanche                 189 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-PHP                      9 mins              ███████████████░░░░░░░░░░   59.34 % 
-SQL                      6 mins              ██████████░░░░░░░░░░░░░░░   40.66 % 
+PHP                      9 mins              ███████████████░░░░░░░░░░   59.24 % 
+SQL                      6 mins              ██████████░░░░░░░░░░░░░░░   40.76 % 
 
 🔥 Éditeurs de code: 
-VS Code                  16 mins             █████████████████████████   99.52 % 
-DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+VS Code                  16 mins             █████████████████████████   99.35 % 
+DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🐱‍💻 Projets: 
 myks                     16 mins             █████████████████████████   100.00 % 
@@ -87,5 +89,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2025 18:55:34 UTC
+ Last Updated on 07/08/2025 18:57:58 UTC
 <!--END_SECTION:waka-->
