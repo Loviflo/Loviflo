@@ -13,7 +13,7 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C879%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C881%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -58,7 +58,7 @@ Dimanche                 189 commits         ███░░░░░░░░�
 💬 Langages: 
 PHP                      2 hrs 51 mins       █████████████░░░░░░░░░░░░   53.30 % 
 JavaScript               1 hr 28 mins        ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-SQL                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+SQL                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
 Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
@@ -91,5 +91,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2025 18:52:20 UTC
+ Last Updated on 14/08/2025 18:54:20 UTC
 <!--END_SECTION:waka-->
