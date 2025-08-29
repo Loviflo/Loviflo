@@ -13,9 +13,9 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C883%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C883%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-3-blue)
+![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-6.5%20million%20Lignes%20de%20code-blue)
 
@@ -58,20 +58,16 @@ Dimanche                 189 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-PHP                      10 mins             ███████████░░░░░░░░░░░░░░   42.99 % 
-JSON                     7 mins              ████████░░░░░░░░░░░░░░░░░   30.45 % 
-INI                      3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Bash                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Bash                     2 mins              █████████████████████████   100.00 % 
 
 🔥 Éditeurs de code: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-myks                     20 mins             ██████████████████████░░░   87.96 % 
-back                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+back                     2 mins              █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Windows                  23 mins             █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en PHP** 
@@ -91,5 +87,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2025 18:48:35 UTC
+ Last Updated on 29/08/2025 18:46:16 UTC
 <!--END_SECTION:waka-->
