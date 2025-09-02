@@ -13,7 +13,7 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C890%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C892%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
@@ -22,6 +22,8 @@
 **🐱 Mes données GitHub** 
 
 > 📦 268.9 kB Utilisés sur le stockage de GitHub 
+ > 
+> 🏆 9 Contributions en 2025
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -66,7 +68,7 @@ JSON                     0 secs              ░░░░░░░░░░░�
 VS Code                  9 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-Anno                     8 hrs 7 mins        ██████████████████████░░░   88.12 % 
+Anno                     8 hrs 7 mins        ██████████████████████░░░   88.13 % 
 Unity                    1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
 back                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
@@ -91,5 +93,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2025 18:46:44 UTC
+ Last Updated on 02/09/2025 18:47:05 UTC
 <!--END_SECTION:waka-->
