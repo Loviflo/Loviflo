@@ -13,6 +13,8 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C892%20hrs%2039%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-6.5%20million%20Lignes%20de%20code-blue)
@@ -29,6 +31,45 @@
  > 
 > 🔑 16 dépots privés 
  > 
+**Je suis un 🦉 de nuit** 
+
+```text
+🌞 Matin                  122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+🌆 Journée                601 commits         ████████░░░░░░░░░░░░░░░░░   33.28 % 
+🌃 Soirée                 822 commits         ███████████░░░░░░░░░░░░░░   45.51 % 
+🌙 Nuit                   261 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+```
+📅 **Je suis le plus productif le Jeudi** 
+
+```text
+Lundi                    238 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Mardi                    343 commits         █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+Mercredi                 324 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Jeudi                    358 commits         █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Vendredi                 283 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Samedi                   71 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Dimanche                 189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+```
+
+
+📊 **Cette semaine, je passe mon temps sur** 
+
+```text
+🕑︎ Fuseau horaire: Europe/Paris
+
+💬 Langages: 
+Aucune activité enregistrée cette semaine
+
+🔥 Éditeurs de code: 
+Aucune activité enregistrée cette semaine
+
+🐱‍💻 Projets: 
+Aucune activité enregistrée cette semaine
+
+💻 Système d'exploitation: 
+Aucune activité enregistrée cette semaine
+```
+
 **Je code principalement en PHP** 
 
 ```text
@@ -46,5 +87,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2025 18:38:03 UTC
+ Last Updated on 21/09/2025 18:39:08 UTC
 <!--END_SECTION:waka-->
