@@ -58,16 +58,16 @@ Dimanche                 189 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Aucune activité enregistrée cette semaine
+Other                    27 mins             █████████████████████████   100.00 % 
 
 🔥 Éditeurs de code: 
-Aucune activité enregistrée cette semaine
+Chrome                   27 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-Aucune activité enregistrée cette semaine
+card-conquest            27 mins             █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Aucune activité enregistrée cette semaine
+Windows                  27 mins             █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en PHP** 
@@ -87,5 +87,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2025 18:39:35 UTC
+ Last Updated on 26/10/2025 18:40:06 UTC
 <!--END_SECTION:waka-->
