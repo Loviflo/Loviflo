@@ -13,7 +13,7 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C896%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C896%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-2-blue)
 
@@ -58,18 +58,18 @@ Dimanche                 189 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    1 hr 11 mins        █████████████████████████   99.62 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Other                    1 hr 13 mins        █████████████████████████   99.64 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Éditeurs de code: 
-Chrome                   1 hr 11 mins        █████████████████████████   100.00 % 
+Chrome                   1 hr 14 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-card-conquest            1 hr 11 mins        █████████████████████████   99.62 % 
-rookie                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+card-conquest            1 hr 13 mins        █████████████████████████   99.64 % 
+rookie                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Système d'exploitation: 
-Windows                  1 hr 11 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en PHP** 
@@ -89,5 +89,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2025 18:42:51 UTC
+ Last Updated on 14/11/2025 18:42:58 UTC
 <!--END_SECTION:waka-->
