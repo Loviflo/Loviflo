@@ -23,6 +23,8 @@
 
 > 📦 268.3 kB Utilisés sur le stockage de GitHub 
  > 
+> 🏆 9 Contributions en 2025
+ > 
 > 🚫 N'a pas choisi d'embaucher
  > 
 > 📜 16 dépots publiques 
@@ -56,16 +58,16 @@ Dimanche                 189 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    2 mins              █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 🔥 Éditeurs de code: 
-Chrome                   2 mins              █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 🐱‍💻 Projets: 
-card-conquest            2 mins              █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 
 💻 Système d'exploitation: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Aucune activité enregistrée cette semaine
 ```
 
 **Je code principalement en PHP** 
@@ -85,5 +87,5 @@ TypeScript               3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2025 18:43:46 UTC
+ Last Updated on 21/11/2025 18:40:18 UTC
 <!--END_SECTION:waka-->
