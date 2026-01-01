@@ -17,13 +17,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
-![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-6.5%20million%20Lignes%20de%20code-blue)
+![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-6.53%20million%20Lignes%20de%20code-blue)
 
 **🐱 Mes données GitHub** 
 
 > 📦 269.1 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 50 Contributions en 2025
+> 🏆 0 Contributions en 2026
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -58,16 +58,16 @@ Dimanche                 196 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    2 hrs 1 min         █████████████████████████   100.00 % 
+Other                    26 mins             █████████████████████████   100.00 % 
 
 🔥 Éditeurs de code: 
-Chrome                   2 hrs 1 min         █████████████████████████   100.00 % 
+Chrome                   26 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-card-conquest            2 hrs 1 min         █████████████████████████   100.00 % 
+card-conquest            26 mins             █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  26 mins             █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en PHP** 
@@ -87,5 +87,5 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 18:44:17 UTC
+ Last Updated on 01/01/2026 18:44:57 UTC
 <!--END_SECTION:waka-->
