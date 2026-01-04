@@ -13,6 +13,8 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C900%20hrs%2029%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-6.53%20million%20Lignes%20de%20code-blue)
@@ -29,6 +31,45 @@
  > 
 > 🔑 17 dépots privés 
  > 
+**Je suis un 🦉 de nuit** 
+
+```text
+🌞 Matin                  122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+🌆 Journée                617 commits         ████████░░░░░░░░░░░░░░░░░   33.42 % 
+🌃 Soirée                 837 commits         ███████████░░░░░░░░░░░░░░   45.34 % 
+🌙 Nuit                   270 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+```
+📅 **Je suis le plus productif le Jeudi** 
+
+```text
+Lundi                    239 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Mardi                    345 commits         █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Mercredi                 324 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Jeudi                    358 commits         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+Vendredi                 284 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Samedi                   100 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Dimanche                 196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+```
+
+
+📊 **Cette semaine, je passe mon temps sur** 
+
+```text
+🕑︎ Fuseau horaire: Europe/Paris
+
+💬 Langages: 
+Other                    27 mins             █████████████████████████   100.00 % 
+
+🔥 Éditeurs de code: 
+Chrome                   27 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projets: 
+card-conquest            27 mins             █████████████████████████   100.00 % 
+
+💻 Système d'exploitation: 
+Windows                  27 mins             █████████████████████████   100.00 % 
+```
+
 **Je code principalement en PHP** 
 
 ```text
@@ -46,5 +87,5 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:43:08 UTC
+ Last Updated on 04/01/2026 18:43:36 UTC
 <!--END_SECTION:waka-->
