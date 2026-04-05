@@ -13,7 +13,7 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C915%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C915%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue?style=flat)
 
@@ -58,16 +58,16 @@ Dimanche                 196 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    3 mins              █████████████████████████   100.00 % 
+Other                    1 hr 38 mins        █████████████████████████   100.00 % 
 
 🔥 Éditeurs de code: 
-Chrome                   3 mins              █████████████████████████   100.00 % 
+Chrome                   1 hr 38 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-card-conquest            3 mins              █████████████████████████   100.00 % 
+card-conquest            1 hr 38 mins        █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en PHP** 
@@ -87,5 +87,5 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2026 18:47:41 UTC
+ Last Updated on 05/04/2026 18:47:33 UTC
 <!--END_SECTION:waka-->
