@@ -13,7 +13,7 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C927%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C927%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue?style=flat)
 
@@ -58,18 +58,18 @@ Dimanche                 196 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    5 hrs 32 mins       █████████████████████████   98.52 % 
-Batchfile                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Other                    5 hrs 11 mins       █████████████████████████   98.43 % 
+Batchfile                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Éditeurs de code: 
-Chrome                   5 hrs 37 mins       █████████████████████████   100.00 % 
+Chrome                   5 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-__Batch Files            4 hrs 22 mins       ███████████████████░░░░░░   77.86 % 
-lcpl-calibre-plugin      1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+__Batch Files            3 hrs 35 mins       █████████████████░░░░░░░░   68.05 % 
+lcpl-calibre-plugin      1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   31.95 % 
 
 💻 Système d'exploitation: 
-Windows                  5 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en PHP** 
@@ -89,5 +89,5 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 03/06/2026 19:48:22 UTC
+ Last Updated on 04/06/2026 19:19:07 UTC
 <!--END_SECTION:waka-->
