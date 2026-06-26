@@ -13,7 +13,7 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C932%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C933%20hrs%2047%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue?style=flat)
 
@@ -58,18 +58,21 @@ Dimanche                 196 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    3 hrs 34 mins       █████████████████████████   99.32 % 
-PHP                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Other                    4 hrs 22 mins       ████████████████████████░   94.68 % 
+PHP                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Éditeurs de code: 
-Chrome                   3 hrs 35 mins       █████████████████████████   100.00 % 
+Chrome                   4 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-lcpl-calibre-plugin      3 hrs 35 mins       █████████████████████████   100.00 % 
+lcpl-calibre-plugin      3 hrs 38 mins       ████████████████████░░░░░   78.92 % 
+skin.arctic.fuse.3       42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+repository.jamal2362     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Reboot-to-CoreELEC       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Système d'exploitation: 
-Windows                  3 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en PHP** 
@@ -89,5 +92,5 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 25/06/2026 19:14:13 UTC
+ Last Updated on 26/06/2026 19:08:36 UTC
 <!--END_SECTION:waka-->
