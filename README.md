@@ -13,7 +13,7 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C935%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C935%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue?style=flat)
 
@@ -58,17 +58,16 @@ Dimanche                 196 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    57 mins             █████████████████████████   99.20 % 
-PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Other                    57 mins             █████████████████████████   100.00 % 
 
 🔥 Éditeurs de code: 
-Chrome                   58 mins             █████████████████████████   100.00 % 
+Chrome                   57 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-skin.arctic.fuse.3       58 mins             █████████████████████████   100.00 % 
+skin.arctic.fuse.3       57 mins             █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Windows                  58 mins             █████████████████████████   100.00 % 
+Windows                  57 mins             █████████████████████████   100.00 % 
 ```
 
 **Je code principalement en PHP** 
@@ -88,5 +87,5 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2026 18:53:31 UTC
+ Last Updated on 04/07/2026 18:50:09 UTC
 <!--END_SECTION:waka-->
