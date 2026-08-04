@@ -23,9 +23,9 @@
 
 **🐱 Mes données GitHub** 
 
-> 📦 269.3 kB Utilisés sur le stockage de GitHub 
+> 📦 269.4 kB Utilisés sur le stockage de GitHub 
  > 
-> 🏆 33 Contributions en 2026
+> 🏆 44 Contributions en 2026
  > 
 > 🚫 N'a pas choisi d'embaucher
  > 
@@ -36,21 +36,21 @@
 **Je suis un 🦉 de nuit** 
 
 ```text
-🌞 Matin                  130 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-🌆 Journée                637 commits         ████████░░░░░░░░░░░░░░░░░   33.92 % 
-🌃 Soirée                 841 commits         ███████████░░░░░░░░░░░░░░   44.78 % 
-🌙 Nuit                   270 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+🌞 Matin                  130 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+🌆 Journée                637 commits         ████████░░░░░░░░░░░░░░░░░   33.72 % 
+🌃 Soirée                 847 commits         ███████████░░░░░░░░░░░░░░   44.84 % 
+🌙 Nuit                   275 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
 ```
-📅 **Je suis le plus productif le Jeudi** 
+📅 **Je suis le plus productif le Mardi** 
 
 ```text
-Lundi                    250 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Mardi                    354 commits         █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-Mercredi                 336 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Jeudi                    358 commits         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-Vendredi                 284 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Samedi                   100 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Dimanche                 196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Lundi                    256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Mardi                    359 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Mercredi                 336 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Jeudi                    358 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Vendredi                 284 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Samedi                   100 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Dimanche                 196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
 ```
 
 
@@ -60,16 +60,18 @@ Dimanche                 196 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    2 mins              █████████████████████████   100.00 % 
+Other                    1 hr 29 mins        ███████████████████░░░░░░   74.67 % 
+PHP                      30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
 
 🔥 Éditeurs de code: 
-Chrome                   2 mins              █████████████████████████   100.00 % 
+Chrome                   2 hrs               █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-skin.arctic.fuse.3       2 mins              █████████████████████████   100.00 % 
+skin.arctic.fuse.3       1 hr 17 mins        ████████████████░░░░░░░░░   64.66 % 
+BaristaLog               42 mins             █████████░░░░░░░░░░░░░░░░   35.34 % 
 
 💻 Système d'exploitation: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+Windows                  2 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,5 +97,5 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 18:50:33 UTC
+ Last Updated on 04/08/2026 19:04:48 UTC
 <!--END_SECTION:waka-->
