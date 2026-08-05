@@ -13,7 +13,7 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C888%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C888%20hrs%2053%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2021%20mins-blue?style=flat)
 
@@ -60,18 +60,18 @@ Dimanche                 196 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    1 hr 29 mins        ███████████████████░░░░░░   74.67 % 
-PHP                      30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+Other                    2 hrs 23 mins       ████████████████████░░░░░   80.90 % 
+PHP                      33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
 
 🔥 Éditeurs de code: 
-Chrome                   2 hrs               █████████████████████████   100.00 % 
+Chrome                   2 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-skin.arctic.fuse.3       1 hr 17 mins        ████████████████░░░░░░░░░   64.66 % 
-BaristaLog               42 mins             █████████░░░░░░░░░░░░░░░░   35.34 % 
+BaristaLog               1 hr 39 mins        ██████████████░░░░░░░░░░░   56.14 % 
+skin.arctic.fuse.3       1 hr 17 mins        ███████████░░░░░░░░░░░░░░   43.86 % 
 
 💻 Système d'exploitation: 
-Windows                  2 hrs               █████████████████████████   100.00 % 
+Windows                  2 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,5 +97,5 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 19:04:48 UTC
+ Last Updated on 05/08/2026 19:02:42 UTC
 <!--END_SECTION:waka-->
