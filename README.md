@@ -13,10 +13,6 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C888%20hrs%2053%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2021%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-6.53%20million%20Lignes%20de%20code-blue?style=flat)
@@ -60,18 +56,18 @@ Dimanche                 196 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    2 hrs 23 mins       ████████████████████░░░░░   80.90 % 
-PHP                      33 mins             █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Other                    3 hrs 16 mins       █████████████████████░░░░   85.27 % 
+PHP                      33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
 
 🔥 Éditeurs de code: 
-Chrome                   2 hrs 57 mins       █████████████████████████   100.00 % 
+Chrome                   3 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-BaristaLog               1 hr 39 mins        ██████████████░░░░░░░░░░░   56.14 % 
-skin.arctic.fuse.3       1 hr 17 mins        ███████████░░░░░░░░░░░░░░   43.86 % 
+BaristaLog               2 hrs 32 mins       █████████████████░░░░░░░░   66.18 % 
+skin.arctic.fuse.3       1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   33.82 % 
 
 💻 Système d'exploitation: 
-Windows                  2 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,5 +93,5 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 19:02:42 UTC
+ Last Updated on 07/08/2026 18:48:38 UTC
 <!--END_SECTION:waka-->
