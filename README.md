@@ -60,18 +60,18 @@ Dimanche                 196 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    3 hrs 16 mins       █████████████████████░░░░   85.27 % 
-PHP                      33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Other                    3 hrs 20 mins       █████████████████████░░░░   85.53 % 
+PHP                      33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
 
 🔥 Éditeurs de code: 
-Chrome                   3 hrs 50 mins       █████████████████████████   100.00 % 
+Chrome                   3 hrs 54 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-BaristaLog               2 hrs 32 mins       █████████████████░░░░░░░░   66.18 % 
-skin.arctic.fuse.3       1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   33.82 % 
+BaristaLog               2 hrs 36 mins       █████████████████░░░░░░░░   66.78 % 
+skin.arctic.fuse.3       1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   33.22 % 
 
 💻 Système d'exploitation: 
-Windows                  3 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,5 +97,5 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 18:47:21 UTC
+ Last Updated on 10/08/2026 18:49:02 UTC
 <!--END_SECTION:waka-->
