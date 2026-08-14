@@ -60,16 +60,16 @@ Dimanche                 196 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    52 mins             █████████████████████████   100.00 % 
+Other                    5 hrs 2 mins        █████████████████████████   100.00 % 
 
 🔥 Éditeurs de code: 
-Chrome                   52 mins             █████████████████████████   100.00 % 
+Chrome                   5 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-BaristaLog               52 mins             █████████████████████████   100.00 % 
+BaristaLog               5 hrs 2 mins        █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Windows                  52 mins             █████████████████████████   100.00 % 
+Windows                  5 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,5 +95,5 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 18:49:47 UTC
+ Last Updated on 14/08/2026 18:48:22 UTC
 <!--END_SECTION:waka-->
