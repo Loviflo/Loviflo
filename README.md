@@ -23,7 +23,7 @@
 
 **🐱 Mes données GitHub** 
 
-> 📦 269.5 kB Utilisés sur le stockage de GitHub 
+> 📦 268.4 kB Utilisés sur le stockage de GitHub 
  > 
 > 🏆 44 Contributions en 2026
  > 
@@ -60,16 +60,21 @@ Dimanche                 196 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    40 mins             █████████████████████████   100.00 % 
+Other                    2 hrs 40 mins       ███████████████████████░░   91.00 % 
+PHP                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 
 🔥 Éditeurs de code: 
-Chrome                   40 mins             █████████████████████████   100.00 % 
+Chrome                   2 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-BaristaLog               40 mins             █████████████████████████   100.00 % 
+VRSideForge              1 hr 54 mins        ████████████████░░░░░░░░░   65.02 % 
+BaristaLog               58 mins             ████████░░░░░░░░░░░░░░░░░   33.01 % 
+androidsideloader        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+QuestVault               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+cli                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Système d'exploitation: 
-Windows                  40 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,5 +100,5 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 18:41:21 UTC
+ Last Updated on 23/09/2026 18:41:23 UTC
 <!--END_SECTION:waka-->
