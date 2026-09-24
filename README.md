@@ -13,7 +13,7 @@
 [![Waka Readme](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml/badge.svg)](https://github.com/Loviflo/Loviflo/actions/workflows/update-stats.yml)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C888%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C889%20hrs%2012%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2021%20mins-blue?style=flat)
 
@@ -60,21 +60,21 @@ Dimanche                 196 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    2 hrs 40 mins       ███████████████████████░░   91.00 % 
-PHP                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Other                    2 hrs 56 mins       ███████████████████████░░   91.75 % 
+PHP                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
 
 🔥 Éditeurs de code: 
-Chrome                   2 hrs 56 mins       █████████████████████████   100.00 % 
+Chrome                   3 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-VRSideForge              1 hr 54 mins        ████████████████░░░░░░░░░   65.02 % 
-BaristaLog               58 mins             ████████░░░░░░░░░░░░░░░░░   33.01 % 
-androidsideloader        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-QuestVault               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-cli                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+VRSideForge              2 hrs 10 mins       █████████████████░░░░░░░░   67.92 % 
+BaristaLog               58 mins             ████████░░░░░░░░░░░░░░░░░   30.27 % 
+androidsideloader        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+QuestVault               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+cli                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Système d'exploitation: 
-Windows                  2 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,5 +100,5 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 18:41:23 UTC
+ Last Updated on 24/09/2026 18:42:10 UTC
 <!--END_SECTION:waka-->
