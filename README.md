@@ -60,21 +60,21 @@ Dimanche                 196 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    2 hrs 56 mins       ███████████████████████░░   91.75 % 
-PHP                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
+Other                    2 hrs 58 mins       ███████████████████████░░   91.84 % 
+PHP                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
 
 🔥 Éditeurs de code: 
-Chrome                   3 hrs 11 mins       █████████████████████████   100.00 % 
+Chrome                   3 hrs 14 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-VRSideForge              2 hrs 10 mins       █████████████████░░░░░░░░   67.92 % 
-BaristaLog               58 mins             ████████░░░░░░░░░░░░░░░░░   30.27 % 
-androidsideloader        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+VRSideForge              2 hrs 12 mins       █████████████████░░░░░░░░   68.28 % 
+BaristaLog               58 mins             ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+androidsideloader        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 QuestVault               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 cli                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Système d'exploitation: 
-Windows                  3 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,5 +100,5 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 18:40:43 UTC
+ Last Updated on 27/09/2026 18:41:37 UTC
 <!--END_SECTION:waka-->
