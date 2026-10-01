@@ -60,16 +60,16 @@ Dimanche                 196 commits         ███░░░░░░░░�
 🕑︎ Fuseau horaire: Europe/Paris
 
 💬 Langages: 
-Other                    21 mins             █████████████████████████   100.00 % 
+Other                    5 mins              █████████████████████████   100.00 % 
 
 🔥 Éditeurs de code: 
-Chrome                   21 mins             █████████████████████████   100.00 % 
+Chrome                   5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projets: 
-VRSideForge              21 mins             █████████████████████████   100.00 % 
+VRSideForge              5 mins              █████████████████████████   100.00 % 
 
 💻 Système d'exploitation: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,5 +95,5 @@ Dart                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Loviflo/Loviflo/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 18:45:11 UTC
+ Last Updated on 01/10/2026 18:46:02 UTC
 <!--END_SECTION:waka-->
